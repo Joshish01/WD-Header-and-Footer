@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('/assets/img/landing.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Slayer {
+    width: 420px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 30px 40px;
+}
+
+ h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+h3 {
+    margin: 10px;
+    text-align: center;
+}
+ p {
+    font-size: large;
+    text-align: center;
+ }
+
+
+ nav {
+    display: flex;
+    gap: 0.8rem;
+    width: fit-content;
+
+    &:hover > :not(:hover) {
+      opacity: 0.5;
+    }
+ }
+
+ a {
+      border: rgba(255, 255, 255, 0.534) 1px solid;
+      border-radius: 25px;
+      padding: 0.7rem 1.5rem;
+      text-decoration: none;
+      color: white;
+      font-weight: 500;
+      transition: all 0.3s ease;
+      font-size: clamp(.8rem, 1vw, 1.2rem);
+ }
+
+.head {
+        background: linear-gradient(-8deg, #f9ff5e 0%, #ffa237 100%);
+        background: -moz-linear-gradient(-8deg, #b57436 0%, #f7e9b5 100%);
+        background: -webkit-linear-gradient(-8deg, #f9ff5e 0%, #ffa237 100%);
+}
+
+.foot {
+        background: linear-gradient(-8deg, #f7e9b5 0%, #ffa237 100%);
+        background: -moz-linear-gradient(-8deg, #b57436 0%, #ffffff 100%);
+        background: -webkit-linear-gradient(-8deg, #f9ff5e 0%, #ffa237 100%);
+}

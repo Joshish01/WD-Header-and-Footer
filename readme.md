@@ -115,3 +115,4 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Login Form BG | used the transparent login form in my website to be a background of the text  | https://www.youtube.com/watch?v=hlwlM4a5rxg |
+|Center and Background | used as a guide to center the text and the buttons | https://www.youtube.com/watch?v=PgAZ8KzfhO8&t=519s

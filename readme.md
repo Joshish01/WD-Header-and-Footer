@@ -64,10 +64,7 @@ Different designs of Headers and Footers
 <!-- The following are just sample -->
 Header Animation
 -Hover Effect
--Not Effect
-Footer Animation
--Hover Effect
--Not Effect
+-Active Effect
 
 
 ### Technology
@@ -116,3 +113,8 @@ WD-ProjectName
 |-|-|-|
 | Login Form BG | used the transparent login form in my website to be a background of the text  | https://www.youtube.com/watch?v=hlwlM4a5rxg |
 |Center and Background | used as a guide to center the text and the buttons | https://www.youtube.com/watch?v=PgAZ8KzfhO8&t=519s
+|      logo       |    used for my website        |https://ph.pinterest.com/pin/337770040814017761/
+|       buton     |    used for designing          |https://www.youtube.com/watch?v=aswRKAjjWuE
+|     button       |      used for designing       |https://www.youtube.com/watch?v=b_8fHNIHFk4
+| buttons | used for designing | https://www.youtube.com/watch?v=HRZ-lECHQa8
+| color palette | used for my gradient | https://colorswall.com/palette/171299

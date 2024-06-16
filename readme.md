@@ -111,6 +111,8 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
+| Title | Purpose | Link |
+|-|-|-|
 | Login Form BG | used the transparent login form in my website to be a background of the text  | https://www.youtube.com/watch?v=hlwlM4a5rxg |
 |Center and Background | used as a guide to center the text and the buttons | https://www.youtube.com/watch?v=PgAZ8KzfhO8&t=519s
 |      logo       |    used for my website        |https://ph.pinterest.com/pin/337770040814017761/
@@ -118,3 +120,7 @@ WD-ProjectName
 |     button       |      used for designing       |https://www.youtube.com/watch?v=b_8fHNIHFk4
 | buttons | used for designing | https://www.youtube.com/watch?v=HRZ-lECHQa8
 | color palette | used for my gradient | https://colorswall.com/palette/171299
+| logo | used for logo of my header |https://www.google.com/search?q=company+logo+for+cars&sca_esv=7fb4d39484240f25&rlz=1C1VDKB_enPH1077PH1077&udm=2&biw=1536&bih=695&sxsrf=ADLYWIJoHSc07w02E6ZUUzaso1O-Rti_kQ%3A1718369364725&ei=VDxsZrHsK5LL2roP7umcOA&ved=0ahUKEwix5s7ckNuGAxWSpVYBHe40BwcQ4dUDCBA&uact=5&oq=company+logo+for+cars&gs_lp=Egxnd3Mtd2l6LXNlcnAiFWNvbXBhbnkgbG9nbyBmb3IgY2FyczIGEAAYCBgeSIIPUNsJWNsJcAJ4AJABAJgBPqABPqoBATG4AQPIAQD4AQGYAgGgAkCYAwDiAwUSATEgQIgGAZIHATGgB08&sclient=gws-wiz-serp#vhid=OrYmsVpybA8reM&vssid=mosaic
+| logo | used for logo of my header | https://ph.pinterest.com/pin/58054282689909867/
+| logo | used for logo of my header | https://ph.pinterest.com/pin/673640056791880789/
+| icon | used website for my icon | https://remixicon.com/
